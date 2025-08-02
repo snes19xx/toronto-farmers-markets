@@ -1,6 +1,7 @@
 # toronto-farmers-markets
 Digitizing Toronto's public and farmers markets with GIS
 
+This project visualizes the locations and attributes of farmers markets across the city using ArcGIS Pro. It includes formatted datasets, a layout map, and a layer package for further use or analysis.
 ## Usage
 
 The following map shows the layout of all digitized farmers markets in Toronto:
